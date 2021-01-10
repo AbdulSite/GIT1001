@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D4B4-4B47
+
+ Directory of C:\Users\araha\Desktop\GitMyProject
+
+10-01-2021  19:32    <DIR>          .
+10-01-2021  19:32    <DIR>          ..
+10-01-2021  17:35                22 index.html
+10-01-2021  17:32                 4 test1.txt
+10-01-2021  19:32                 0 test2.txt
+               3 File(s)             26 bytes
+               2 Dir(s)  97,857,699,840 bytes free
